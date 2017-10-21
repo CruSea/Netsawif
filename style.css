@@ -1,0 +1,57 @@
+#logo{
+   height: 100px;
+   width: 130px; 
+   position: relative;
+}
+.navbar{
+	
+	background-color:crimson;
+	min-height: 80px;
+
+}
+body{
+	margin-top:130px;
+}
+/*video carosel--**/
+
+#Videocarousel .carousel-item{ 
+    
+	/*height: 230px; */
+}
+
+iframe{
+	border: 2px solid black;
+
+}
+/* contents style */
+ #download{
+	margin-top:5px;
+
+}
+#contents{
+	margin: 45px auto;
+}
+ a {
+     text-decoration: none ;
+     color: black;
+  }
+a img {
+        
+        display: block;
+    }
+    a:hover img {
+        transform: scale(1.5);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+footer{
+	background-color:Crimson;
+	padding: 20px;
+	margin-bottom: 0px;
+	color:#eee;
+	font-size: 11px;
+}
+ul.unstyled{
+	list-style: none;
+	padding: 0;
+}
